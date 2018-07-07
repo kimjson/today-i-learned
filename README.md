@@ -1,4 +1,4 @@
-# Today-I-Leared (a.k.a. TIL)
+# Today I learned ... (a.k.a. TIL)
 
 Public github wiki project. 
 
